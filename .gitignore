@@ -1,0 +1,4 @@
+.fast_ml/
+__pycache__/
+*.pyc
+.env
